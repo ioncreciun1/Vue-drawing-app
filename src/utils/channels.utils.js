@@ -1,0 +1,1 @@
+export const DRAW_CHANNEL = import.meta.env.VITE_PUBNUB_CHANNEL
